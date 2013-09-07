@@ -1,0 +1,4 @@
+algorithm
+=========
+
+Repository for exercises
